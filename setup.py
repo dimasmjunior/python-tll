@@ -10,7 +10,7 @@ setup(
     author_email='dimasmjunior@gmail.com',
     description='Thin LDAP Layer',
     license='BSD',
-    url='http://github.com/python-tll',
+    url='http://github.com/dimasmjunior/python-tll',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
